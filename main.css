@@ -1,0 +1,33 @@
+/* Structure 
+--------------------------------------------- */
+
+body {
+	background-color: #3C3770;
+	font-family: 'Slabo 27px', serif;
+}
+#wrapper {
+	max-width: 1280px;
+	margin: 0 auto;
+	width: 100%;
+	background-color: #424E66
+}
+#content {
+	margin: 20px auto;
+	max-width: 1080px;
+	width: 100%;
+}
+
+/* Typography 
+--------------------------------------------- */
+
+h1 {
+	color: white;
+	font-size: 2em;
+	font-family: 'Patua One', cursive;
+}
+p {
+	color: #918370;
+	font-size: 1em;
+}
+
+
